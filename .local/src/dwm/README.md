@@ -2,7 +2,6 @@
 
 ### Patches
 
-- activetagindicator
 - attachbelow
 - bar height
 - centeredwindowname
@@ -15,6 +14,8 @@
 - statusallmons
 - statuscmd
 - xrdb
+- my own "patch" which removes the active tag bar
+- my own "patch" which adds an underline to ^c^ tags in statusbar
 
 ### Install
 
