@@ -1,0 +1,53 @@
+! catppuccin
+
+#define rosewater #f5e0dc
+#define flamingo  #f2cdcd
+#define pink      #f5c2e7
+#define mauve     #cba6f7
+#define red       #f38ba8
+#define maroon    #eba0ac
+#define peach     #fab387
+#define yellow    #f9e2af
+#define green     #a6e3a1
+#define teal      #94e2d5
+#define sky       #89dceb
+#define sapphire  #74c7ec
+#define blue      #89b4fa
+#define lavender  #b4befe
+#define text      #cdd6f4
+#define subetext1 #bac2de
+#define subtext0  #a7adc8
+#define overlay2  #9399b2
+#define overlay1  #7f849c
+#define overlay0  #6c7086
+#define surface2  #585b70
+#define surface1  #45475a
+#define surface0  #313244
+#define base      #1e1e2e
+#define mantle    #181825
+#define crust     #11111b
+
+
+dwm.infonormbgcolor: mantle
+dwm.infonormfgcolor: text
+dwm.infoselbgcolor: mantle
+dwm.infoselfgcolor: text
+
+dwm.tagsnormbgcolor: mantle
+dwm.tagsnormfgcolor: text
+dwm.tagsselbgcolor: crust
+dwm.tagsselfgcolor: text
+dwm.tagsemptynormbgcolor: mantle
+dwm.tagsemptynormfgcolor: surface1
+dwm.tagsemptyselbgcolor: crust
+dwm.tagsemptyselfgcolor: surface1
+
+dwm.statusbgcolor: mantle
+dwm.statusfgcolor: text
+
+dwm.normbgcolor: mantle
+dwm.normfgcolor: text
+dwm.normbordercolor: mantle
+dwm.selbordercolor: pink
+dwm.selbgcolor: text
+dwm.selfgcolor: mantle
