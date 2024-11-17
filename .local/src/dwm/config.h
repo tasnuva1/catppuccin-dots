@@ -122,7 +122,7 @@ static const Layout layouts[] = {
 /* commands */
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "/home/stephen/.config/rofi/launchers/type-2/launcher.sh", NULL };
-static const char *termcmd[]  = { "kitty", NULL };
+static const char *termcmd[]  = { "wezterm", NULL };
 static const char *powermenucmd[] = {"/home/stephen/.config/rofi/powermenu/type-2/powermenu.sh", NULL };
 
 #include "movestack.c"
